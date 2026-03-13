@@ -1,0 +1,5 @@
+patient_id,fever,cough,fatigue,diagnosis
+1,yes,yes,yes,Flu
+2,no,yes,no,Cold
+3,yes,no,yes,Viral Infection
+4,no,no,yes,Fatigue
