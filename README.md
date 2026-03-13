@@ -1,19 +1,41 @@
 
 # Symptom Logic Python
 
-This is a beginner Python project that demonstrates simple diagnostic logic for healthcare data.
+A beginner health informatics project that demonstrates how Python can be used to analyze symptoms and suggest possible health conditions using simple logic and scoring.
 
-The program asks the user about symptoms and uses conditional logic to suggest possible health conditions.
-
-This project is part of my learning journey in Health Informatics while studying Python and SQL.
+This project is part of a learning journey in **Health Informatics**, combining healthcare knowledge with programming to build data-driven healthcare tools.
 
 ## Features
-- Simple symptom input
-- Basic diagnostic logic using Python
-- Beginner-friendly healthcare data example
+
+* Symptom input system
+* Symptom scoring logic
+* Basic diagnostic suggestions
+* Example healthcare dataset
+* Python-based decision logic
+
+## Future Improvements
+
+* Add more symptoms
+* Implement symptom scoring algorithms
+* Integrate healthcare datasets
+* Apply machine learning models for diagnosis prediction
+* Connect Python with SQL databases for patient data storage
 
 ## Technologies Used
-- Python
+
+* Python
+* SQL (future integration)
+* Basic Healthcare Data Logic
+
+## Project Structure
+
+Symptom-Logic-Python
+│
+├── README.md
+├── symptom_logic.py
+├── symptom_score.py
+└── dataset.csv
 
 ## Author
-Usama – DHMS Practitioner transitioning into Health Informatics
+
+Usama
